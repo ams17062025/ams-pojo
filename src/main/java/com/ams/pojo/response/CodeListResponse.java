@@ -1,5 +1,6 @@
-package com.ams.beans;
+package com.ams.pojo.response;
 
+import com.ams.pojo.beans.CodeListBean;
 import lombok.Data;
 
 import java.util.List;

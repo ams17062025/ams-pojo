@@ -1,4 +1,4 @@
-package com.ams.beans;
+package com.ams.pojo.beans;
 
 import lombok.Data;
 
