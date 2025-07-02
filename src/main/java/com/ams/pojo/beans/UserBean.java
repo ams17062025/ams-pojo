@@ -2,6 +2,8 @@ package com.ams.pojo.beans;
 
 import lombok.Data;
 
+import java.util.Date;
+
 @Data
 public class UserBean {
     private Long recordId;
@@ -11,4 +13,5 @@ public class UserBean {
     private String middleName;
     private String email;
     private String gender;
+    private Date dob;
 }
